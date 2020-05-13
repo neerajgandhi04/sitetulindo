@@ -1,8 +1,10 @@
  body{
+  background-image: linear-gradient(red, yellow);
   background-color: #333333;
   font-family: Arial; 
   height: 100vh;
 }
+
 .menu{
   background-color: whitesmoke;
 }
