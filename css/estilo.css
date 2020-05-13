@@ -1,5 +1,5 @@
  body{
-  background-image: linear-gradient(red, yellow);
+  background-image: linear-gradient(red, yellow, rgba(0, 0, 0, 0.39));
   background-color: #333333;
   font-family: Arial; 
   height: 100vh;
@@ -33,6 +33,12 @@ a:hover{
 
 .site-subtitle{
   font-style: italic;
+}
+
+.site-desempregado{
+  color: blue;
+  font-family: Helvetica;
+  text-align: center;
 }
 
 h1{
