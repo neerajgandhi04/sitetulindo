@@ -22,6 +22,7 @@ a:hover{
   text-decoration: underline;
 }
 
+.site-marco,
 .site-title, 
 .site-subtitle{
   color: white;
@@ -30,4 +31,9 @@ a:hover{
 
 .site-subtitle{
   font-style: italic;
+}
+
+h1{
+  margin: 20px;
+  border: 4px solid goldenrod;
 }
