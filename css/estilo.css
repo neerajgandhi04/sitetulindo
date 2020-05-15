@@ -50,5 +50,6 @@ a:hover{
 
 h1{
   margin: 20px;
-  border: 4px solid goldenrod;
+  border: 4px solid brown;
+  box-shadow: 18px 10px 20px rgb(41, 39, 39);
 }
